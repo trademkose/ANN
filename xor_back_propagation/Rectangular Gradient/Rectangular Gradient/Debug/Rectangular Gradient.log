@@ -1,0 +1,51 @@
+﻿Build started 21.12.2015 17:05:00.
+     1>Project "D:\Github\ANN\xor_back_propagation\Rectangular Gradient\Rectangular Gradient\Rectangular Gradient.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_UNICODE" /D "UNICODE" /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Rectangular Gradient.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "Rectangular Gradient.cpp"
+         Rectangular Gradient.cpp
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(296): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(297): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(298): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(300): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(301): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(302): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(304): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(305): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(306): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(390): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(406): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(423): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(503): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(505): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(513): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(531): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(555): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(556): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(561): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(562): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(573): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(574): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(579): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(580): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(658): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(659): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(661): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(662): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(783): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(784): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(786): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(787): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(802): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\github\ann\xor_back_propagation\rectangular gradient\rectangular gradient\Form1.h(806): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Github\ANN\xor_back_propagation\Rectangular Gradient\Debug\Rectangular Gradient.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\RectangularGradient.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Github\ANN\xor_back_propagation\Rectangular Gradient\Debug\Rectangular Gradient.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Debug\app.res
+         "Debug\AssemblyInfo.obj"
+         "Debug\Rectangular Gradient.obj"
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Rectangular Gradient.vcxproj -> D:\Github\ANN\xor_back_propagation\Rectangular Gradient\Debug\Rectangular Gradient.exe
+     1>Done Building Project "D:\Github\ANN\xor_back_propagation\Rectangular Gradient\Rectangular Gradient\Rectangular Gradient.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.67
